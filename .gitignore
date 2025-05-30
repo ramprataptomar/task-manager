@@ -1,7 +1,7 @@
 # Node modules
 node_modules/
-client/node_modules/
-server/node_modules/
+frontend/task-manager/node_modules/
+backend/node_modules/
 
 # Environment files
 .env
@@ -18,8 +18,8 @@ yarn-error.log*
 # Build output
 dist/
 build/
-client/build/
-server/build/
+frontend/task-manager/build/
+backend/build/
 
 # OS files
 .DS_Store

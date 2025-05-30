@@ -61,17 +61,17 @@ TASK MANAGER/
 ### 📦 Backend (Node.js + Express)
 
 ```bash
-cd server
+cd backend
 npm install
-npm start
+npm run dev
 ```
 
 ### 🌐 Frontend (React.js)
 
 ```bash
-cd client
+cd frontend/task-manager
 npm install
-npm start
+npm run dev
 ```
 
 
